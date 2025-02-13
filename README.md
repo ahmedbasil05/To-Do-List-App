@@ -14,18 +14,6 @@ A simple yet powerful **To-Do List App** designed to help you stay organized and
 
 ---
 
-## 🎥 Demo
-
-Check out the live demo: [Demo Link](#) _(Replace with your hosted link)_
-
----
-
-## 📸 Screenshots
-
-![To-Do List App Screenshot](#) _(Replace with an actual screenshot)_
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML** – For the structure  
